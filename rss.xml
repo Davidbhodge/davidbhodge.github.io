@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>Tall, Bald, Easily distracte</title> <link>http://davidbhodge.github.io</link> <atom:link href="http://davidbhodge.github.io/rss.xml" rel="self" type="application/rss+xml" /> <language>en-us</language> <pubDate>Sun, 06 Dec 2015 14:11:03 +1300</pubDate> <item> <title>First Post, redux, bis and yet one more time again</title> <link>http://davidbhodge.github.io/posts/First-Post-redux-bis-and-yet-one-more-time-again.html</link> <pubDate>2015-12-04</pubDate> <author>David Hodge</author> <guid isPermaLink="true">http://davidbhodge.github.io/posts/First-Post-redux-bis-and-yet-one-more-time-again.html</guid>  <description><![CDATA[ <p>Trying  out the blog again after a period of ill health and not doing much.</p>
+
+<p>I was using Coleslaw and trying to make it work with github pages - which is turned out much harder than I would have thought. Symlinks are not handled properly as far as i can see.</p>
+
+<p>So, I found another system called Site Generator and after some futzing around with it its working. There is a lot more work to getting it going, but you can sure do a lot with it - and it does not have those nasty symlinks.</p>
+
+<p>This turned out to be far too work, so i thought (foolish me) to go with the mainstream and move to Jekyll. Hoo Boy. If I thought I had a problem , well I had multiple problems. The short summary is that Jeyll relies on an XML parser called nokogiri that soes not play nicley with osx when usig Macports. I gave up after becoming far too closely acquainted with the ruby world.</p>
+
+<p>So I am back to coleslaw , using the GH-PAGES plugin.</p>
+
+<p>Lets see how this will work.</p>
+
+<p>I have to say that I am astonished how hard this has all been.</p>
+ ]]></description> </item> </channel> </rss>
